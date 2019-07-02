@@ -41,5 +41,6 @@ public class AppRunner {
         System.out.println();
 
         System.out.println("The biggest area of this figures is: " + maxShape);
+        
        }
     }
